@@ -1,0 +1,23 @@
+.my-first-box {
+    background-color: lightyellow; /* Gives the box a light blue background */
+    padding: 20px; /* Adds space inside the box */
+    margin: 15px; /* Adds space outside the box, pushing it away from other things */
+    border: 2px yellow; /* Puts a blue border around the box */
+    text-align: center; /* Centers the text and image inside */
+}
+
+
+
+h2, h3 {
+    color: darkblue;
+}
+
+p {
+    font-family: sans-serif;
+    color: #333;
+}
+
+body{
+background-color:Navy
+}
+
